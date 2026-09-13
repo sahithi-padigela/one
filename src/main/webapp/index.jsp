@@ -380,10 +380,10 @@
 
         <div class="nav-actions">
             <button class="icon-btn" onclick="focusSearch()" aria-label="Search">
-                <i class="fa-solid fa-magnifying-glass"></i>
+                <em class="fa-solid fa-magnifying-glass"></em>
             </button>
             <button class="icon-btn" onclick="showWishlist()" aria-label="Wishlist">
-                <i class="fa-regular fa-heart"></i>
+                <em class="fa-regular fa-heart"></em>
             </button>
             <button class="icon-btn" id="cartBtn" onclick="showCart()" aria-label="Cart">
                 <i class="fa-solid fa-cart-shopping"></i>
